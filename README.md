@@ -1,1 +1,1 @@
-# Stacking-model-for-solubility-prediciton
+# Stacking-model-for-protein-solubility-prediciton
