@@ -1,0 +1,7 @@
+Code for pdb2pqr:
+
+for %f in ("C:\Users\johnkwon\Desktop\Experiment\*.pdb") do (
+pdb2pqr30 --ff=CHARMM "C:\Users\johnkwon\Desktop\Experiment\%~nf.pdb" "C:\Users\johnkwon\Desktop\Experiment\PQR\%~nf.pqr")
+
+Code for Quilt:
+
